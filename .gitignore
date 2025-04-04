@@ -1,2 +1,9 @@
 
 filepath.py
+*.csv
+questions_raw.json
+proj_req.txt
+api_wip.py
+api_wip.py
+trivia_wip2.py
+__pycache__/filepath.cpython-311.pyc
